@@ -1,0 +1,13 @@
+Numpy resources
+
+Numpy Tutorial
+Part 1
+https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
+Part 2
+https://www.machinelearningplus.com/python/numpy-tutorial-python-part2/
+
+101 NumPy Exercises for Data Analysis
+https://www.machinelearningplus.com/python/101-numpy-exercises-python
+
+Matplotlib Tutorial – A Complete Guide to Python Plot w/ Examples
+https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/

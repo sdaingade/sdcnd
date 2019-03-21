@@ -8,8 +8,8 @@ print("image type {}".format(type(image)))
 print("image.shape {}".format(image.shape))
 
 # Grab the x and y size and make a copy of the image
-xsize = image.shape[0]
-ysize = image.shape[1]
+ysize = image.shape[0]
+xsize = image.shape[1]
 color_select = np.copy(image)
 print("xsize {}, ysize {}".format(xsize, ysize))
 
@@ -31,7 +31,9 @@ thresholds = (image[:,:,0] < rgb_threshold[0]) \
             
 print("thresholds.shape {}, {}".format(thresholds.shape, thresholds))
 print("type(thresholds[0][0]) {}".format(type(thresholds[0][0])))
+
 color_select[thresholds] = [0,0,0]
+#Swapnil: Set the locations that match the threshold to [0,0,0] in the 3d image
 
 # Display the image                 
 plt.imshow(color_select)
