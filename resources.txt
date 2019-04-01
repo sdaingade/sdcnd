@@ -1,4 +1,4 @@
-Numpy resources
+﻿Numpy resources
 
 Numpy Tutorial
 Part 1
@@ -11,3 +11,16 @@ https://www.machinelearningplus.com/python/101-numpy-exercises-python
 
 Matplotlib Tutorial – A Complete Guide to Python Plot w/ Examples
 https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/
+
+
+Project 1
+
+Github
+* https://github.com/udacity/CarND-LaneLines-P1
+
+CarND Term1 Starter Kit
+* https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md
+
+Configure and Manage Your Environment with Anaconda
+* https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/doc/configure_via_anaconda.md
+
