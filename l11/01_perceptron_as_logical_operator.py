@@ -31,6 +31,13 @@ else:
     print('You got {} wrong.  Keep trying!\n'.format(num_wrong))
 print(output_frame.to_string(index=False))
 
+#OR perceptron
+# There are two ways to go from AND perceptron to OR Perceptron
+# 1. Increase the weights
+# 2. Decrease the magnitude of the bias
+
+
+
 import pandas as pd
 
 # TODO: Set weight1, weight2, and bias
