@@ -1,0 +1,7 @@
+On windows
+1. Install Anaconda
+2. #Installing Tensorflow
+   conda create --name=IntroToTensorFlow python=3 anaconda
+   conda activate IntroToTensorFlow
+   conda install -c conda-forge tensorflow
+
