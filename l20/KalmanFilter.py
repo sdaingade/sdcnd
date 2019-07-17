@@ -157,6 +157,7 @@ def kalman_filter(x, P):
         # prediction
         x = (F * x) + u
         P = F * P * F.transpose()
+        #print("Iteration {}, x: {}, P: {}".format(n, x, P))
     return x,P
 
 ############################################
